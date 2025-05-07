@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Flask
 gunicorn
 pymongo
 dnspython
+=======
+Flask
+gunicorn
+pymongo
+dnspython
+>>>>>>> 082fce6499796121941bc666695526e58b59db51
